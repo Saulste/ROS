@@ -1,0 +1,12 @@
+<launch>
+
+	
+	<node pkg="quad_control" type="Trayectoria_deseada_node" name="Trayectoria_deseada_node"  />
+	<node pkg="quad_control" type="control_de_posicion_node" name="control_de_posicion_node"  />
+	<node pkg="quad_control" type="control_angular_node" name="control_angular_node"  />
+
+	
+	
+	
+
+</launch>

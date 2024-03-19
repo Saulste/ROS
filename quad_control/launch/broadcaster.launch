@@ -1,0 +1,8 @@
+<launch>
+
+	
+	<node pkg="quad_control" type="Quadrotor_UAV_node" name="Quadrotor_UAV_node"  />
+
+	
+
+</launch>
